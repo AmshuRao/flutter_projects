@@ -1,16 +1,24 @@
 # quote_app
 
-A new Flutter project.
+This flutter app have a simple design which is made to understand the concept of lists,card and functions as parameter concept
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository to your local machine.
+2. Open the project in your preferred code editor.
+3. Install Flutter and Dart SDK if you haven't already.
+4. Run `flutter pub get` to fetch the project dependencies.
+5. Connect a device or start an emulator.
+6. Run `flutter run` to launch the application.
+
+For more detailed instructions on getting started with Flutter development, you can refer to the [online documentation](https://docs.flutter.dev/get-started/).
+
+## Resources
+
+Here are some resources that you may find helpful:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter API reference](https://api.flutter.dev/)
