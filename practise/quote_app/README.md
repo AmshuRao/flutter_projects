@@ -1,6 +1,6 @@
 # quote_app
 
-A new Flutter project.
+This flutter app have a simple design which is made to understand the concept of lists,card and functions as parameter concept
 
 ## Getting Started
 
